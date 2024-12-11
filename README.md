@@ -83,7 +83,7 @@ fn app() -> Element {
 ```
 
 ## ⭐️ Unique features:
-
+## By Mudassir Alam
 - Cross-platform apps in three lines of code (web, desktop, mobile, server, and more)
 - [Ergonomic state management](https://dioxuslabs.com/blog/release-050) combines the best of React, Solid, and Svelte
 - Type-safe Routing and server functions to leverage Rust's powerful compile-time guarantees
